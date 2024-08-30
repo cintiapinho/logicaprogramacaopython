@@ -1,0 +1,5 @@
+1) Crie um jogo onde o usuário deve adivinhar um número secreto entre 1 e 100. O programa deve fornecer dicas sobre se o palpite do usuário está muito alto ou muito baixo. 
+O jogo deve continuar até que o usuário adivinhe corretamente ou escolha sair.
+
+2)Crie um programa que simula um caixa de supermercado. O usuário deve inserir o preço de cada item comprado e, após inserir todos os itens, o programa deve calcular o total da compra e aplicar um desconto de 5%, se o valor for pago a vista, caso contrário cobrança normal.
+Execute o programa até o usuário disser que deseja continuar. 
